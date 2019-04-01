@@ -9,5 +9,8 @@
         <module name="ahgOnlineData" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ahgOnlineData" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
